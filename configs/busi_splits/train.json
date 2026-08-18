@@ -1,0 +1,4931 @@
+[
+  {
+    "id": "malignant/malignant (185)",
+    "image_path": "malignant/malignant (185).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (185)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (282)",
+    "image_path": "benign/benign (282).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (282)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (117)",
+    "image_path": "malignant/malignant (117).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (117)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (280)",
+    "image_path": "benign/benign (280).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (280)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (164)",
+    "image_path": "benign/benign (164).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (164)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (186)",
+    "image_path": "malignant/malignant (186).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (186)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (304)",
+    "image_path": "benign/benign (304).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (304)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (155)",
+    "image_path": "benign/benign (155).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (155)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (125)",
+    "image_path": "benign/benign (125).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (125)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (121)",
+    "image_path": "malignant/malignant (121).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (121)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (177)",
+    "image_path": "malignant/malignant (177).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (177)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (22)",
+    "image_path": "malignant/malignant (22).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (22)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (10)",
+    "image_path": "normal/normal (10).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (10)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (242)",
+    "image_path": "benign/benign (242).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (242)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (127)",
+    "image_path": "benign/benign (127).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (127)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (251)",
+    "image_path": "benign/benign (251).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (251)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (106)",
+    "image_path": "malignant/malignant (106).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (106)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (265)",
+    "image_path": "benign/benign (265).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (265)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (79)",
+    "image_path": "malignant/malignant (79).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (79)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (277)",
+    "image_path": "benign/benign (277).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (277)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (174)",
+    "image_path": "malignant/malignant (174).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (174)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (271)",
+    "image_path": "benign/benign (271).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (271)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (7)",
+    "image_path": "benign/benign (7).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (7)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (286)",
+    "image_path": "benign/benign (286).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (286)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (16)",
+    "image_path": "normal/normal (16).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (16)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (109)",
+    "image_path": "benign/benign (109).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (109)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (214)",
+    "image_path": "benign/benign (214).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (214)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (121)",
+    "image_path": "benign/benign (121).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (121)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (53)",
+    "image_path": "benign/benign (53).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (53)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (30)",
+    "image_path": "normal/normal (30).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (30)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (175)",
+    "image_path": "benign/benign (175).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (175)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (153)",
+    "image_path": "benign/benign (153).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (153)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (51)",
+    "image_path": "malignant/malignant (51).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (51)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (193)",
+    "image_path": "benign/benign (193).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (193)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (168)",
+    "image_path": "benign/benign (168).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (168)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (57)",
+    "image_path": "malignant/malignant (57).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (57)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (243)",
+    "image_path": "benign/benign (243).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (243)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (127)",
+    "image_path": "normal/normal (127).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (127)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (301)",
+    "image_path": "benign/benign (301).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (301)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (133)",
+    "image_path": "malignant/malignant (133).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (133)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (103)",
+    "image_path": "benign/benign (103).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (103)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (94)",
+    "image_path": "normal/normal (94).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (94)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (261)",
+    "image_path": "benign/benign (261).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (261)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (112)",
+    "image_path": "malignant/malignant (112).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (112)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (250)",
+    "image_path": "benign/benign (250).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (250)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (18)",
+    "image_path": "normal/normal (18).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (18)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (105)",
+    "image_path": "normal/normal (105).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (105)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (228)",
+    "image_path": "benign/benign (228).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (228)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (252)",
+    "image_path": "benign/benign (252).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (252)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (9)",
+    "image_path": "benign/benign (9).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (9)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (290)",
+    "image_path": "benign/benign (290).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (290)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (63)",
+    "image_path": "benign/benign (63).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (63)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (230)",
+    "image_path": "benign/benign (230).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (230)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (44)",
+    "image_path": "normal/normal (44).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (44)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (56)",
+    "image_path": "malignant/malignant (56).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (56)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (84)",
+    "image_path": "malignant/malignant (84).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (84)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (40)",
+    "image_path": "benign/benign (40).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (40)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (413)",
+    "image_path": "benign/benign (413).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (413)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (85)",
+    "image_path": "malignant/malignant (85).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (85)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (41)",
+    "image_path": "malignant/malignant (41).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (41)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (192)",
+    "image_path": "malignant/malignant (192).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (192)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (119)",
+    "image_path": "malignant/malignant (119).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (119)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (130)",
+    "image_path": "normal/normal (130).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (130)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (327)",
+    "image_path": "benign/benign (327).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (327)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (132)",
+    "image_path": "benign/benign (132).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (132)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (40)",
+    "image_path": "malignant/malignant (40).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (40)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (229)",
+    "image_path": "benign/benign (229).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (229)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (385)",
+    "image_path": "benign/benign (385).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (385)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (44)",
+    "image_path": "malignant/malignant (44).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (44)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (31)",
+    "image_path": "normal/normal (31).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (31)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (142)",
+    "image_path": "malignant/malignant (142).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (142)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (188)",
+    "image_path": "malignant/malignant (188).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (188)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (148)",
+    "image_path": "malignant/malignant (148).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (148)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (78)",
+    "image_path": "benign/benign (78).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (78)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (298)",
+    "image_path": "benign/benign (298).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (298)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (37)",
+    "image_path": "normal/normal (37).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (37)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (95)",
+    "image_path": "malignant/malignant (95).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (95)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (278)",
+    "image_path": "benign/benign (278).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (278)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (21)",
+    "image_path": "malignant/malignant (21).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (21)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (136)",
+    "image_path": "benign/benign (136).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (136)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (54)",
+    "image_path": "benign/benign (54).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (54)_mask.png",
+      "benign/benign (54)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (183)",
+    "image_path": "benign/benign (183).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (183)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (316)",
+    "image_path": "benign/benign (316).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (316)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (300)",
+    "image_path": "benign/benign (300).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (300)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (209)",
+    "image_path": "benign/benign (209).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (209)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (7)",
+    "image_path": "malignant/malignant (7).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (7)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (126)",
+    "image_path": "benign/benign (126).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (126)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (205)",
+    "image_path": "malignant/malignant (205).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (205)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (324)",
+    "image_path": "benign/benign (324).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (324)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (6)",
+    "image_path": "benign/benign (6).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (6)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (37)",
+    "image_path": "malignant/malignant (37).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (37)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (313)",
+    "image_path": "benign/benign (313).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (313)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (90)",
+    "image_path": "malignant/malignant (90).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (90)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (77)",
+    "image_path": "malignant/malignant (77).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (77)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (39)",
+    "image_path": "benign/benign (39).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (39)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (170)",
+    "image_path": "malignant/malignant (170).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (170)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (131)",
+    "image_path": "malignant/malignant (131).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (131)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (419)",
+    "image_path": "benign/benign (419).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (419)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (108)",
+    "image_path": "normal/normal (108).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (108)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (339)",
+    "image_path": "benign/benign (339).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (339)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (201)",
+    "image_path": "malignant/malignant (201).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (201)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (263)",
+    "image_path": "benign/benign (263).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (263)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (134)",
+    "image_path": "benign/benign (134).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (134)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (59)",
+    "image_path": "normal/normal (59).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (59)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (194)",
+    "image_path": "benign/benign (194).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (194)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (338)",
+    "image_path": "benign/benign (338).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (338)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (120)",
+    "image_path": "benign/benign (120).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (120)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (415)",
+    "image_path": "benign/benign (415).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (415)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (59)",
+    "image_path": "benign/benign (59).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (59)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (272)",
+    "image_path": "benign/benign (272).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (272)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (68)",
+    "image_path": "malignant/malignant (68).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (68)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (317)",
+    "image_path": "benign/benign (317).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (317)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (157)",
+    "image_path": "malignant/malignant (157).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (157)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (164)",
+    "image_path": "malignant/malignant (164).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (164)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (336)",
+    "image_path": "benign/benign (336).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (336)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (34)",
+    "image_path": "malignant/malignant (34).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (34)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (181)",
+    "image_path": "benign/benign (181).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (181)_mask.png",
+      "benign/benign (181)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (260)",
+    "image_path": "benign/benign (260).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (260)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (79)",
+    "image_path": "normal/normal (79).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (79)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (148)",
+    "image_path": "benign/benign (148).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (148)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (36)",
+    "image_path": "benign/benign (36).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (36)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (14)",
+    "image_path": "normal/normal (14).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (14)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (90)",
+    "image_path": "normal/normal (90).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (90)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (140)",
+    "image_path": "malignant/malignant (140).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (140)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (102)",
+    "image_path": "normal/normal (102).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (102)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (146)",
+    "image_path": "malignant/malignant (146).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (146)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (154)",
+    "image_path": "malignant/malignant (154).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (154)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (405)",
+    "image_path": "benign/benign (405).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (405)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (434)",
+    "image_path": "benign/benign (434).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (434)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (122)",
+    "image_path": "normal/normal (122).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (122)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (303)",
+    "image_path": "benign/benign (303).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (303)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (25)",
+    "image_path": "malignant/malignant (25).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (25)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (291)",
+    "image_path": "benign/benign (291).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (291)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (312)",
+    "image_path": "benign/benign (312).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (312)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (173)",
+    "image_path": "malignant/malignant (173).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (173)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (343)",
+    "image_path": "benign/benign (343).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (343)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (3)",
+    "image_path": "malignant/malignant (3).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (3)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (33)",
+    "image_path": "normal/normal (33).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (33)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (20)",
+    "image_path": "normal/normal (20).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (20)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (51)",
+    "image_path": "normal/normal (51).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (51)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (29)",
+    "image_path": "malignant/malignant (29).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (29)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (192)",
+    "image_path": "benign/benign (192).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (192)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (109)",
+    "image_path": "normal/normal (109).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (109)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (425)",
+    "image_path": "benign/benign (425).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (425)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (279)",
+    "image_path": "benign/benign (279).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (279)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (65)",
+    "image_path": "benign/benign (65).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (65)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (85)",
+    "image_path": "normal/normal (85).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (85)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (195)",
+    "image_path": "benign/benign (195).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (195)_mask.png",
+      "benign/benign (195)_mask_1.png",
+      "benign/benign (195)_mask_2.png"
+    ]
+  },
+  {
+    "id": "benign/benign (138)",
+    "image_path": "benign/benign (138).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (138)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (177)",
+    "image_path": "benign/benign (177).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (177)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (102)",
+    "image_path": "benign/benign (102).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (102)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (253)",
+    "image_path": "benign/benign (253).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (253)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (382)",
+    "image_path": "benign/benign (382).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (382)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (131)",
+    "image_path": "normal/normal (131).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (131)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (151)",
+    "image_path": "benign/benign (151).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (151)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (89)",
+    "image_path": "normal/normal (89).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (89)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (245)",
+    "image_path": "benign/benign (245).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (245)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (205)",
+    "image_path": "benign/benign (205).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (205)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (72)",
+    "image_path": "benign/benign (72).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (72)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (373)",
+    "image_path": "benign/benign (373).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (373)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (75)",
+    "image_path": "malignant/malignant (75).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (75)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (127)",
+    "image_path": "malignant/malignant (127).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (127)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (200)",
+    "image_path": "malignant/malignant (200).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (200)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (247)",
+    "image_path": "benign/benign (247).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (247)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (233)",
+    "image_path": "benign/benign (233).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (233)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (302)",
+    "image_path": "benign/benign (302).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (302)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (321)",
+    "image_path": "benign/benign (321).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (321)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (388)",
+    "image_path": "benign/benign (388).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (388)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (25)",
+    "image_path": "benign/benign (25).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (25)_mask.png",
+      "benign/benign (25)_mask_1.png"
+    ]
+  },
+  {
+    "id": "normal/normal (57)",
+    "image_path": "normal/normal (57).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (57)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (154)",
+    "image_path": "benign/benign (154).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (154)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (133)",
+    "image_path": "benign/benign (133).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (133)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (184)",
+    "image_path": "benign/benign (184).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (184)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (352)",
+    "image_path": "benign/benign (352).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (352)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (117)",
+    "image_path": "normal/normal (117).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (117)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (337)",
+    "image_path": "benign/benign (337).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (337)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (366)",
+    "image_path": "benign/benign (366).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (366)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (87)",
+    "image_path": "malignant/malignant (87).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (87)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (10)",
+    "image_path": "benign/benign (10).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (10)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (69)",
+    "image_path": "benign/benign (69).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (69)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (94)",
+    "image_path": "malignant/malignant (94).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (94)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (355)",
+    "image_path": "benign/benign (355).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (355)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (63)",
+    "image_path": "normal/normal (63).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (63)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (110)",
+    "image_path": "malignant/malignant (110).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (110)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (91)",
+    "image_path": "benign/benign (91).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (91)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (288)",
+    "image_path": "benign/benign (288).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (288)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (49)",
+    "image_path": "malignant/malignant (49).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (49)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (45)",
+    "image_path": "malignant/malignant (45).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (45)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (128)",
+    "image_path": "malignant/malignant (128).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (128)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (158)",
+    "image_path": "benign/benign (158).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (158)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (88)",
+    "image_path": "normal/normal (88).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (88)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (8)",
+    "image_path": "benign/benign (8).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (8)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (62)",
+    "image_path": "malignant/malignant (62).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (62)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (319)",
+    "image_path": "benign/benign (319).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (319)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (120)",
+    "image_path": "normal/normal (120).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (120)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (138)",
+    "image_path": "malignant/malignant (138).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (138)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (173)",
+    "image_path": "benign/benign (173).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (173)_mask.png",
+      "benign/benign (173)_mask_1.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (46)",
+    "image_path": "malignant/malignant (46).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (46)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (144)",
+    "image_path": "malignant/malignant (144).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (144)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (406)",
+    "image_path": "benign/benign (406).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (406)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (55)",
+    "image_path": "malignant/malignant (55).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (55)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (217)",
+    "image_path": "benign/benign (217).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (217)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (349)",
+    "image_path": "benign/benign (349).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (349)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (35)",
+    "image_path": "malignant/malignant (35).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (35)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (289)",
+    "image_path": "benign/benign (289).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (289)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (210)",
+    "image_path": "benign/benign (210).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (210)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (207)",
+    "image_path": "benign/benign (207).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (207)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (359)",
+    "image_path": "benign/benign (359).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (359)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (19)",
+    "image_path": "benign/benign (19).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (19)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (231)",
+    "image_path": "benign/benign (231).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (231)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (240)",
+    "image_path": "benign/benign (240).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (240)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (97)",
+    "image_path": "benign/benign (97).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (97)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (215)",
+    "image_path": "benign/benign (215).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (215)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (5)",
+    "image_path": "malignant/malignant (5).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (5)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (69)",
+    "image_path": "malignant/malignant (69).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (69)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (42)",
+    "image_path": "malignant/malignant (42).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (42)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (168)",
+    "image_path": "malignant/malignant (168).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (168)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (315)",
+    "image_path": "benign/benign (315).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (315)_mask.png",
+      "benign/benign (315)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (157)",
+    "image_path": "benign/benign (157).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (157)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (106)",
+    "image_path": "normal/normal (106).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (106)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (99)",
+    "image_path": "normal/normal (99).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (99)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (53)",
+    "image_path": "normal/normal (53).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (53)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (179)",
+    "image_path": "benign/benign (179).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (179)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (116)",
+    "image_path": "normal/normal (116).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (116)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (167)",
+    "image_path": "benign/benign (167).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (167)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (237)",
+    "image_path": "benign/benign (237).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (237)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (35)",
+    "image_path": "benign/benign (35).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (35)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (171)",
+    "image_path": "malignant/malignant (171).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (171)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (49)",
+    "image_path": "benign/benign (49).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (49)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (137)",
+    "image_path": "malignant/malignant (137).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (137)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (76)",
+    "image_path": "benign/benign (76).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (76)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (206)",
+    "image_path": "malignant/malignant (206).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (206)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (50)",
+    "image_path": "malignant/malignant (50).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (50)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (42)",
+    "image_path": "normal/normal (42).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (42)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (52)",
+    "image_path": "benign/benign (52).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (52)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (226)",
+    "image_path": "benign/benign (226).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (226)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (335)",
+    "image_path": "benign/benign (335).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (335)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (113)",
+    "image_path": "malignant/malignant (113).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (113)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (21)",
+    "image_path": "benign/benign (21).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (21)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (30)",
+    "image_path": "benign/benign (30).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (30)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (235)",
+    "image_path": "benign/benign (235).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (235)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (74)",
+    "image_path": "normal/normal (74).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (74)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (409)",
+    "image_path": "benign/benign (409).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (409)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (396)",
+    "image_path": "benign/benign (396).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (396)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (180)",
+    "image_path": "benign/benign (180).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (180)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (70)",
+    "image_path": "normal/normal (70).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (70)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (106)",
+    "image_path": "benign/benign (106).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (106)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (38)",
+    "image_path": "malignant/malignant (38).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (38)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (3)",
+    "image_path": "normal/normal (3).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (3)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (82)",
+    "image_path": "normal/normal (82).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (82)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (56)",
+    "image_path": "normal/normal (56).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (56)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (152)",
+    "image_path": "benign/benign (152).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (152)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (86)",
+    "image_path": "normal/normal (86).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (86)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (28)",
+    "image_path": "malignant/malignant (28).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (28)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (198)",
+    "image_path": "malignant/malignant (198).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (198)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (12)",
+    "image_path": "malignant/malignant (12).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (12)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (381)",
+    "image_path": "benign/benign (381).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (381)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (87)",
+    "image_path": "benign/benign (87).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (87)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (43)",
+    "image_path": "normal/normal (43).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (43)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (213)",
+    "image_path": "benign/benign (213).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (213)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (149)",
+    "image_path": "malignant/malignant (149).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (149)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (140)",
+    "image_path": "benign/benign (140).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (140)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (43)",
+    "image_path": "benign/benign (43).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (43)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (86)",
+    "image_path": "benign/benign (86).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (86)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (147)",
+    "image_path": "benign/benign (147).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (147)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (36)",
+    "image_path": "malignant/malignant (36).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (36)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (351)",
+    "image_path": "benign/benign (351).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (351)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (428)",
+    "image_path": "benign/benign (428).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (428)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (26)",
+    "image_path": "benign/benign (26).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (26)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (79)",
+    "image_path": "benign/benign (79).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (79)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (165)",
+    "image_path": "malignant/malignant (165).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (165)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (13)",
+    "image_path": "benign/benign (13).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (13)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (167)",
+    "image_path": "malignant/malignant (167).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (167)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (19)",
+    "image_path": "malignant/malignant (19).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (19)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (15)",
+    "image_path": "normal/normal (15).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (15)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (216)",
+    "image_path": "benign/benign (216).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (216)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (73)",
+    "image_path": "malignant/malignant (73).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (73)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (81)",
+    "image_path": "benign/benign (81).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (81)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (210)",
+    "image_path": "malignant/malignant (210).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (210)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (178)",
+    "image_path": "malignant/malignant (178).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (178)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (404)",
+    "image_path": "benign/benign (404).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (404)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (115)",
+    "image_path": "benign/benign (115).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (115)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (299)",
+    "image_path": "benign/benign (299).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (299)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (341)",
+    "image_path": "benign/benign (341).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (341)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (161)",
+    "image_path": "benign/benign (161).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (161)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (93)",
+    "image_path": "benign/benign (93).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (93)_mask.png",
+      "benign/benign (93)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (296)",
+    "image_path": "benign/benign (296).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (296)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (4)",
+    "image_path": "malignant/malignant (4).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (4)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (424)",
+    "image_path": "benign/benign (424).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (424)_mask.png",
+      "benign/benign (424)_mask_1.png"
+    ]
+  },
+  {
+    "id": "normal/normal (54)",
+    "image_path": "normal/normal (54).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (54)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (76)",
+    "image_path": "malignant/malignant (76).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (76)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (152)",
+    "image_path": "malignant/malignant (152).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (152)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (202)",
+    "image_path": "benign/benign (202).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (202)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (159)",
+    "image_path": "benign/benign (159).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (159)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (309)",
+    "image_path": "benign/benign (309).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (309)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (103)",
+    "image_path": "malignant/malignant (103).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (103)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (107)",
+    "image_path": "benign/benign (107).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (107)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (17)",
+    "image_path": "normal/normal (17).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (17)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (122)",
+    "image_path": "benign/benign (122).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (122)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (11)",
+    "image_path": "malignant/malignant (11).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (11)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (184)",
+    "image_path": "malignant/malignant (184).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (184)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (318)",
+    "image_path": "benign/benign (318).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (318)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (18)",
+    "image_path": "benign/benign (18).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (18)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (17)",
+    "image_path": "benign/benign (17).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (17)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (314)",
+    "image_path": "benign/benign (314).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (314)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (357)",
+    "image_path": "benign/benign (357).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (357)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (182)",
+    "image_path": "benign/benign (182).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (182)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (241)",
+    "image_path": "benign/benign (241).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (241)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (129)",
+    "image_path": "normal/normal (129).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (129)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (395)",
+    "image_path": "benign/benign (395).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (395)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (46)",
+    "image_path": "benign/benign (46).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (46)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (417)",
+    "image_path": "benign/benign (417).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (417)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (31)",
+    "image_path": "malignant/malignant (31).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (31)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (110)",
+    "image_path": "normal/normal (110).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (110)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (100)",
+    "image_path": "malignant/malignant (100).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (100)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (383)",
+    "image_path": "benign/benign (383).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (383)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (24)",
+    "image_path": "normal/normal (24).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (24)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (322)",
+    "image_path": "benign/benign (322).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (322)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (340)",
+    "image_path": "benign/benign (340).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (340)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (71)",
+    "image_path": "benign/benign (71).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (71)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (96)",
+    "image_path": "malignant/malignant (96).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (96)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (390)",
+    "image_path": "benign/benign (390).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (390)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (411)",
+    "image_path": "benign/benign (411).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (411)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (218)",
+    "image_path": "benign/benign (218).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (218)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (126)",
+    "image_path": "normal/normal (126).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (126)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (97)",
+    "image_path": "malignant/malignant (97).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (97)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (47)",
+    "image_path": "malignant/malignant (47).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (47)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (116)",
+    "image_path": "benign/benign (116).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (116)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (144)",
+    "image_path": "benign/benign (144).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (144)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (60)",
+    "image_path": "malignant/malignant (60).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (60)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (161)",
+    "image_path": "malignant/malignant (161).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (161)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (160)",
+    "image_path": "benign/benign (160).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (160)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (427)",
+    "image_path": "benign/benign (427).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (427)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (118)",
+    "image_path": "malignant/malignant (118).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (118)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (208)",
+    "image_path": "malignant/malignant (208).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (208)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (124)",
+    "image_path": "malignant/malignant (124).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (124)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (33)",
+    "image_path": "benign/benign (33).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (33)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (169)",
+    "image_path": "malignant/malignant (169).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (169)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (113)",
+    "image_path": "normal/normal (113).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (113)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (334)",
+    "image_path": "benign/benign (334).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (334)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (78)",
+    "image_path": "malignant/malignant (78).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (78)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (209)",
+    "image_path": "malignant/malignant (209).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (209)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (11)",
+    "image_path": "normal/normal (11).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (11)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (139)",
+    "image_path": "malignant/malignant (139).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (139)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (74)",
+    "image_path": "benign/benign (74).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (74)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (118)",
+    "image_path": "benign/benign (118).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (118)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (128)",
+    "image_path": "normal/normal (128).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (128)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (199)",
+    "image_path": "malignant/malignant (199).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (199)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (268)",
+    "image_path": "benign/benign (268).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (268)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (9)",
+    "image_path": "normal/normal (9).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (9)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (362)",
+    "image_path": "benign/benign (362).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (362)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (23)",
+    "image_path": "malignant/malignant (23).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (23)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (195)",
+    "image_path": "malignant/malignant (195).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (195)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (326)",
+    "image_path": "benign/benign (326).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (326)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (189)",
+    "image_path": "malignant/malignant (189).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (189)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (81)",
+    "image_path": "normal/normal (81).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (81)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (416)",
+    "image_path": "benign/benign (416).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (416)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (238)",
+    "image_path": "benign/benign (238).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (238)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (36)",
+    "image_path": "normal/normal (36).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (36)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (380)",
+    "image_path": "benign/benign (380).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (380)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (171)",
+    "image_path": "benign/benign (171).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (171)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (12)",
+    "image_path": "normal/normal (12).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (12)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (166)",
+    "image_path": "benign/benign (166).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (166)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (285)",
+    "image_path": "benign/benign (285).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (285)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (320)",
+    "image_path": "benign/benign (320).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (320)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (182)",
+    "image_path": "malignant/malignant (182).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (182)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (387)",
+    "image_path": "benign/benign (387).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (387)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (25)",
+    "image_path": "normal/normal (25).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (25)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (102)",
+    "image_path": "malignant/malignant (102).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (102)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (361)",
+    "image_path": "benign/benign (361).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (361)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (246)",
+    "image_path": "benign/benign (246).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (246)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (20)",
+    "image_path": "malignant/malignant (20).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (20)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (269)",
+    "image_path": "benign/benign (269).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (269)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (116)",
+    "image_path": "malignant/malignant (116).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (116)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (354)",
+    "image_path": "benign/benign (354).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (354)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (19)",
+    "image_path": "normal/normal (19).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (19)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (412)",
+    "image_path": "benign/benign (412).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (412)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (118)",
+    "image_path": "normal/normal (118).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (118)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (432)",
+    "image_path": "benign/benign (432).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (432)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (185)",
+    "image_path": "benign/benign (185).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (185)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (60)",
+    "image_path": "benign/benign (60).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (60)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (402)",
+    "image_path": "benign/benign (402).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (402)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (248)",
+    "image_path": "benign/benign (248).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (248)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (219)",
+    "image_path": "benign/benign (219).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (219)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (10)",
+    "image_path": "malignant/malignant (10).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (10)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (98)",
+    "image_path": "malignant/malignant (98).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (98)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (88)",
+    "image_path": "malignant/malignant (88).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (88)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (379)",
+    "image_path": "benign/benign (379).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (379)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (104)",
+    "image_path": "normal/normal (104).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (104)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (186)",
+    "image_path": "benign/benign (186).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (186)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (421)",
+    "image_path": "benign/benign (421).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (421)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (98)",
+    "image_path": "normal/normal (98).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (98)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (32)",
+    "image_path": "benign/benign (32).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (32)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (89)",
+    "image_path": "benign/benign (89).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (89)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (437)",
+    "image_path": "benign/benign (437).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (437)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (29)",
+    "image_path": "benign/benign (29).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (29)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (120)",
+    "image_path": "malignant/malignant (120).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (120)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (130)",
+    "image_path": "malignant/malignant (130).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (130)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (155)",
+    "image_path": "malignant/malignant (155).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (155)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (275)",
+    "image_path": "benign/benign (275).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (275)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (259)",
+    "image_path": "benign/benign (259).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (259)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (65)",
+    "image_path": "malignant/malignant (65).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (65)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (114)",
+    "image_path": "benign/benign (114).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (114)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (323)",
+    "image_path": "benign/benign (323).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (323)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (14)",
+    "image_path": "benign/benign (14).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (14)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (137)",
+    "image_path": "benign/benign (137).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (137)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (149)",
+    "image_path": "benign/benign (149).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (149)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (100)",
+    "image_path": "benign/benign (100).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (100)_mask.png",
+      "benign/benign (100)_mask_1.png"
+    ]
+  },
+  {
+    "id": "normal/normal (119)",
+    "image_path": "normal/normal (119).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (119)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (34)",
+    "image_path": "benign/benign (34).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (34)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (376)",
+    "image_path": "benign/benign (376).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (376)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (95)",
+    "image_path": "benign/benign (95).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (95)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (239)",
+    "image_path": "benign/benign (239).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (239)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (414)",
+    "image_path": "benign/benign (414).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (414)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (342)",
+    "image_path": "benign/benign (342).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (342)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (257)",
+    "image_path": "benign/benign (257).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (257)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (224)",
+    "image_path": "benign/benign (224).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (224)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (125)",
+    "image_path": "normal/normal (125).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (125)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (126)",
+    "image_path": "malignant/malignant (126).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (126)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (13)",
+    "image_path": "malignant/malignant (13).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (13)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (132)",
+    "image_path": "malignant/malignant (132).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (132)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (111)",
+    "image_path": "malignant/malignant (111).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (111)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (28)",
+    "image_path": "benign/benign (28).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (28)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (8)",
+    "image_path": "normal/normal (8).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (8)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (169)",
+    "image_path": "benign/benign (169).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (169)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (287)",
+    "image_path": "benign/benign (287).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (287)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (187)",
+    "image_path": "benign/benign (187).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (187)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (56)",
+    "image_path": "benign/benign (56).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (56)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (348)",
+    "image_path": "benign/benign (348).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (348)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (190)",
+    "image_path": "malignant/malignant (190).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (190)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (431)",
+    "image_path": "benign/benign (431).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (431)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (255)",
+    "image_path": "benign/benign (255).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (255)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (407)",
+    "image_path": "benign/benign (407).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (407)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (48)",
+    "image_path": "benign/benign (48).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (48)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (117)",
+    "image_path": "benign/benign (117).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (117)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (67)",
+    "image_path": "benign/benign (67).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (67)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (295)",
+    "image_path": "benign/benign (295).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (295)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (162)",
+    "image_path": "malignant/malignant (162).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (162)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (293)",
+    "image_path": "benign/benign (293).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (293)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (325)",
+    "image_path": "benign/benign (325).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (325)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (84)",
+    "image_path": "normal/normal (84).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (84)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (1)",
+    "image_path": "benign/benign (1).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (1)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (172)",
+    "image_path": "malignant/malignant (172).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (172)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (15)",
+    "image_path": "benign/benign (15).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (15)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (32)",
+    "image_path": "normal/normal (32).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (32)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (62)",
+    "image_path": "normal/normal (62).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (62)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (208)",
+    "image_path": "benign/benign (208).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (208)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (26)",
+    "image_path": "malignant/malignant (26).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (26)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (51)",
+    "image_path": "benign/benign (51).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (51)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (48)",
+    "image_path": "normal/normal (48).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (48)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (344)",
+    "image_path": "benign/benign (344).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (344)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (52)",
+    "image_path": "normal/normal (52).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (52)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (9)",
+    "image_path": "malignant/malignant (9).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (9)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (28)",
+    "image_path": "normal/normal (28).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (28)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (101)",
+    "image_path": "malignant/malignant (101).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (101)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (132)",
+    "image_path": "normal/normal (132).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (132)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (372)",
+    "image_path": "benign/benign (372).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (372)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (306)",
+    "image_path": "benign/benign (306).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (306)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (32)",
+    "image_path": "malignant/malignant (32).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (32)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (4)",
+    "image_path": "benign/benign (4).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (4)_mask.png",
+      "benign/benign (4)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (198)",
+    "image_path": "benign/benign (198).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (198)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (111)",
+    "image_path": "benign/benign (111).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (111)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (115)",
+    "image_path": "normal/normal (115).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (115)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (189)",
+    "image_path": "benign/benign (189).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (189)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (430)",
+    "image_path": "benign/benign (430).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (430)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (61)",
+    "image_path": "normal/normal (61).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (61)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (72)",
+    "image_path": "normal/normal (72).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (72)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (123)",
+    "image_path": "benign/benign (123).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (123)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (64)",
+    "image_path": "benign/benign (64).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (64)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (115)",
+    "image_path": "malignant/malignant (115).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (115)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (60)",
+    "image_path": "normal/normal (60).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (60)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (58)",
+    "image_path": "benign/benign (58).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (58)_mask.png",
+      "benign/benign (58)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (37)",
+    "image_path": "benign/benign (37).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (37)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (3)",
+    "image_path": "benign/benign (3).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (3)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (386)",
+    "image_path": "benign/benign (386).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (386)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (270)",
+    "image_path": "benign/benign (270).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (270)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (128)",
+    "image_path": "benign/benign (128).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (128)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (203)",
+    "image_path": "malignant/malignant (203).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (203)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (50)",
+    "image_path": "normal/normal (50).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (50)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (105)",
+    "image_path": "benign/benign (105).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (105)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (129)",
+    "image_path": "malignant/malignant (129).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (129)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (83)",
+    "image_path": "benign/benign (83).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (83)_mask.png",
+      "benign/benign (83)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (108)",
+    "image_path": "benign/benign (108).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (108)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (75)",
+    "image_path": "benign/benign (75).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (75)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (23)",
+    "image_path": "benign/benign (23).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (23)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (363)",
+    "image_path": "benign/benign (363).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (363)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (166)",
+    "image_path": "malignant/malignant (166).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (166)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (191)",
+    "image_path": "benign/benign (191).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (191)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (58)",
+    "image_path": "normal/normal (58).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (58)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (91)",
+    "image_path": "malignant/malignant (91).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (91)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (114)",
+    "image_path": "normal/normal (114).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (114)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (16)",
+    "image_path": "benign/benign (16).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (16)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (89)",
+    "image_path": "malignant/malignant (89).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (89)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (76)",
+    "image_path": "normal/normal (76).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (76)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (123)",
+    "image_path": "normal/normal (123).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (123)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (4)",
+    "image_path": "normal/normal (4).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (4)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (367)",
+    "image_path": "benign/benign (367).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (367)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (391)",
+    "image_path": "benign/benign (391).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (391)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (196)",
+    "image_path": "malignant/malignant (196).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (196)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (104)",
+    "image_path": "benign/benign (104).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (104)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (375)",
+    "image_path": "benign/benign (375).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (375)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (24)",
+    "image_path": "benign/benign (24).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (24)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (5)",
+    "image_path": "normal/normal (5).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (5)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (103)",
+    "image_path": "normal/normal (103).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (103)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (330)",
+    "image_path": "benign/benign (330).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (330)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (436)",
+    "image_path": "benign/benign (436).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (436)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (426)",
+    "image_path": "benign/benign (426).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (426)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (21)",
+    "image_path": "normal/normal (21).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (21)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (30)",
+    "image_path": "malignant/malignant (30).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (30)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (333)",
+    "image_path": "benign/benign (333).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (333)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (54)",
+    "image_path": "malignant/malignant (54).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (54)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (62)",
+    "image_path": "benign/benign (62).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (62)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (141)",
+    "image_path": "malignant/malignant (141).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (141)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (401)",
+    "image_path": "benign/benign (401).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (401)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (202)",
+    "image_path": "malignant/malignant (202).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (202)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (41)",
+    "image_path": "benign/benign (41).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (41)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (95)",
+    "image_path": "normal/normal (95).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (95)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (142)",
+    "image_path": "benign/benign (142).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (142)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (53)",
+    "image_path": "malignant/malignant (53).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (53)_mask.png",
+      "malignant/malignant (53)_mask_1.png"
+    ]
+  },
+  {
+    "id": "normal/normal (111)",
+    "image_path": "normal/normal (111).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (111)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (374)",
+    "image_path": "benign/benign (374).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (374)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (48)",
+    "image_path": "malignant/malignant (48).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (48)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (24)",
+    "image_path": "malignant/malignant (24).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (24)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (121)",
+    "image_path": "normal/normal (121).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (121)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (328)",
+    "image_path": "benign/benign (328).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (328)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (39)",
+    "image_path": "normal/normal (39).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (39)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (98)",
+    "image_path": "benign/benign (98).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (98)_mask.png",
+      "benign/benign (98)_mask_1.png"
+    ]
+  },
+  {
+    "id": "benign/benign (176)",
+    "image_path": "benign/benign (176).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (176)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (276)",
+    "image_path": "benign/benign (276).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (276)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (74)",
+    "image_path": "malignant/malignant (74).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (74)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (236)",
+    "image_path": "benign/benign (236).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (236)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (158)",
+    "image_path": "malignant/malignant (158).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (158)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (71)",
+    "image_path": "normal/normal (71).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (71)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (107)",
+    "image_path": "normal/normal (107).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (107)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (332)",
+    "image_path": "benign/benign (332).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (332)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (47)",
+    "image_path": "normal/normal (47).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (47)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (364)",
+    "image_path": "benign/benign (364).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (364)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (109)",
+    "image_path": "malignant/malignant (109).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (109)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (200)",
+    "image_path": "benign/benign (200).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (200)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (38)",
+    "image_path": "normal/normal (38).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (38)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (197)",
+    "image_path": "malignant/malignant (197).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (197)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (1)",
+    "image_path": "malignant/malignant (1).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (1)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (307)",
+    "image_path": "benign/benign (307).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (307)_mask.png"
+    ]
+  },
+  {
+    "id": "normal/normal (97)",
+    "image_path": "normal/normal (97).png",
+    "label_name": "normal",
+    "label": 2,
+    "mask_paths": [
+      "normal/normal (97)_mask.png"
+    ]
+  },
+  {
+    "id": "malignant/malignant (83)",
+    "image_path": "malignant/malignant (83).png",
+    "label_name": "malignant",
+    "label": 1,
+    "mask_paths": [
+      "malignant/malignant (83)_mask.png"
+    ]
+  },
+  {
+    "id": "benign/benign (5)",
+    "image_path": "benign/benign (5).png",
+    "label_name": "benign",
+    "label": 0,
+    "mask_paths": [
+      "benign/benign (5)_mask.png"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+torch
+torchvision
+open-clip-torch
+transformers
+timm
+opencv-python
+scikit-image
+scikit-learn
+pillow
+matplotlib
+tqdm
+numpy
